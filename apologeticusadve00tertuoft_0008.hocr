@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "apologeticusadve00tertuoft_0008.png"; bbox 0 0 2092 3490; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 814 3116 1251 3197">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 814 3116 1251 3197">
+     <span class='ocr_line' id='line_1_1' title="bbox 814 3116 1251 3197; baseline 0 -19"><span class='ocrx_word' id='word_1_1' title='bbox 814 3143 987 3197; x_wconf 46' lang='grc' dir='ltr'>ξυμ-την</span> <span class='ocrx_word' id='word_1_2' title='bbox 986 3132 1165 3194; x_wconf 48' lang='lat' dir='ltr'>*ww</span> <span class='ocrx_word' id='word_1_3' title='bbox 1141 3116 1251 3180; x_wconf 34' lang='grc' dir='ltr'>*ἰ</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 820 3164 1052 3228">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 820 3164 1052 3228">
+     <span class='ocr_line' id='line_1_2' title="bbox 820 3164 1052 3228; baseline -0.012 -12.53"><span class='ocrx_word' id='word_1_4' title='bbox 820 3164 950 3228; x_wconf 51' lang='grc' dir='ltr'>«ΑΛ.</span> <span class='ocrx_word' id='word_1_5' title='bbox 988 3188 1052 3222; x_wconf 35' lang='lat'>&#39;⁶2⁴3</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 2092 3490">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 2092 3490">
+     <span class='ocr_line' id='line_1_3' title="bbox 0 0 2092 3490; baseline 0 0"><span class='ocrx_word' id='word_1_6' title='bbox 0 0 2092 3490; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
